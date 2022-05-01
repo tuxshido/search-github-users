@@ -11,3 +11,4 @@ Display GitHub profile info and clickable links by giving a Github username.
 
 [Check out demo](https://tuxshido.github.io/search-github-users/)
 
+![search-github-users](https://user-images.githubusercontent.com/62277078/166136198-dc4d1d4f-7ad3-46ed-aab4-9416bc9446d1.png)
